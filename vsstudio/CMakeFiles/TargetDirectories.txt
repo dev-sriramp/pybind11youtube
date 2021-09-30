@@ -1,0 +1,5 @@
+E:/mixed/vsstudio/CMakeFiles/pybind11module.dir
+E:/mixed/vsstudio/CMakeFiles/pybind11app.dir
+E:/mixed/vsstudio/CMakeFiles/ALL_BUILD.dir
+E:/mixed/vsstudio/CMakeFiles/ZERO_CHECK.dir
+E:/mixed/vsstudio/externals/pybind11/CMakeFiles/ALL_BUILD.dir
